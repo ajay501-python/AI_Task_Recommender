@@ -1,0 +1,11 @@
+task_id,task_description,sentiment_label,,days_until_due,priority,task_length
+1,Fix critical bug causing system crash.,NEGATIVE,,0,High,7
+2,Review pull request from intern.,NEUTRAL,,3,Medium,6
+3,Write unit tests for login module.,NEUTRAL,,4,Medium,7
+4,Prepare final report for client presentation.,NEGATIVE,,1,High,9
+5,Organize team-building activity next month.,POSITIVE,,20,Low,6
+6,Update documentation for onboarding guide.,POSITIVE,,5,Low,6
+7,Finish design for new dashboard layout.,NEUTRAL,,2,Medium,7
+8,Respond to customer escalation on service outage.,NEGATIVE,,0,High,9
+9,Schedule weekly sync meeting.,POSITIVE,,6,Low,5
+10,Investigate issue in production server logs.,NEGATIVE,,1,High,7

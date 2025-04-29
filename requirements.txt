@@ -1,0 +1,7 @@
+streamlit
+nltk
+pandas
+scikit-learn
+huggingface_hub
+transformers
+torch
